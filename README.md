@@ -1,3 +1,9 @@
+THANK YOU FOR YOUR CONSIDERATION
+
+With a click of a button, populate the page with the top 10 songs played from the API as well as how many times they were played.
+
+For the second analysis, I thought it would be useful to know the top 10 artists played and how many times they were played as well. Which is also available at a click of a button.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
