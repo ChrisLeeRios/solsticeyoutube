@@ -24,6 +24,19 @@
   color: white;
 }
 
+/* For the Top ten titles */
+.container{
+  display: flex;
+}
+
+.leftSide{
+  flex: 1;
+}
+
+.rightSide{
+  flex: 1;
+}
+
 .App-link {
   color: #61dafb;
 }
