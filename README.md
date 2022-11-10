@@ -4,6 +4,8 @@ With a click of a button, populate the page with the top 10 songs played from th
 
 For the second analysis, I thought it would be useful to know the top 10 artists played and how many times they were played as well. Which is also available at a click of a button.
 
+To view the main code please go to src/components/TopTenTitles.jsx and click view raw. Scroll to after the JSON Youtube object and you will see the logic there. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
